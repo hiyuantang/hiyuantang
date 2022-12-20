@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++, JavaScript, Transformers, NLP, CV**
 
-- 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/holatangyuan)
+- 👨‍💻 All of my projects are available at [My GitHub Profile Page](https://github.com/holatangyuan)
 
 - 📫 How to reach me **yutang@ucsd.edu**
 
