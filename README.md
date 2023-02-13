@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuan</h1>
-<h3 align="center">An AI and Brain Scientist from Earth :earth_asia:</h3>
+<h3 align="center">An AI/Brain/Data Scientist from Earth :earth_asia:</h3>
 
 - 🔭 I’m currently working on [Machine Biases of Facial Expressions](https://github.com/holatangyuan/FAU_Dataset)
 
