@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [My GitHub Profile Page](https://github.com/holatangyuan)
 
-- 📫 How to reach me **yutang@ucsd.edu**
+- 📫 How to reach me **yuantang@g.harvard.edu**
 
 - 📄 Know about my experiences [Resume/CV](https://github.com/holatangyuan/Resume)
 
