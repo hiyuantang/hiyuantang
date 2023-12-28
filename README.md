@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Machine Biases of Facial Expressions](https://github.com/holatangyuan/FAU_Dataset)
 
-- 🌱 I’m currently learning **C, NLP, CV**
+- 🌱 I’m currently learning **C/C++/C#, NLP, CV**
 
 - 👨‍💻 All of my projects are available at [My GitHub Profile Page](https://github.com/hiyuantang)
 
