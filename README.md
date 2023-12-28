@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C, NLP, CV**
 
-- 👨‍💻 All of my projects are available at [My GitHub Profile Page](https://github.com/holatangyuan)
+- 👨‍💻 All of my projects are available at [My GitHub Profile Page](https://github.com/hiyuantang)
 
 - 📫 How to reach me **yuantang@g.harvard.edu**
 
