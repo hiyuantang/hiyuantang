@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuan</h1>
 <h3 align="center">An AI Scientist</h3>
 
-- 🔭 I’m currently working on [Machine Biases of Facial Expressions](https://github.com/holatangyuan/FAU_Dataset)
+- 🔭 I'm currently pursuing a Data Science Master's Degree at Harvard.
 
 - 🌱 I’m currently learning **C/C++/C#, NLP, CV**
 
