@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently pursuing a Data Science Master's Degree at Harvard.
 
-- 🌱 I’m currently learning **C/C++/C#, NLP, CV**
+- 🌱 I’m currently learning **NLP, CV, Robotics, ROS**
 
 - 👨‍💻 All of my projects are available at [My GitHub Profile Page](https://github.com/hiyuantang)
 
