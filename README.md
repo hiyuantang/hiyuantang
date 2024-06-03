@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuan</h1>
 <h3 align="center">An AI Scientist</h3>
 
-- 🔭 I'm currently pursuing a Data Science Master's Degree at Harvard.
+- 🔭 I'm currently studying Data Science at Harvard.
 
 - 🌱 I’m currently learning **NLP, CV, Transformers, Diffusion Models**
 
